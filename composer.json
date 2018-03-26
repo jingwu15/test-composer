@@ -2,7 +2,7 @@
     "name": "jingwu15/test-composer",
     "description": "test composer",
     "type": "library",
-    "license": "SPDX",
+    "license": "GPL-3.0-or-later",
     "authors": [
         {
             "name": "jingwu",
