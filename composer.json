@@ -1,0 +1,13 @@
+{
+    "name": "jingwu15/test-composer",
+    "description": "test composer",
+    "type": "library",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "jingwu",
+            "email": "jingwu@vip.163.com"
+        }
+    ],
+    "require": {}
+}
